@@ -46,4 +46,5 @@ export const SubmitSetupBreakoutSessionsModal =
 /**
  * Route of the schedule meeting modal.
  */
-export const SETUP_BREAKOUT_SESSIONS_MODAL_ROUTE = '/setup-breakout-sessions';
+export const SETUP_BREAKOUT_SESSIONS_MODAL_ROUTE =
+  '/matrix-meetings/setup-breakout-sessions/';

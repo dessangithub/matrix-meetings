@@ -53,4 +53,4 @@ export const SubmitScheduleMeetingModal = 'nic.schedule.meeting.submit';
 /**
  * Route of the schedule meeting modal.
  */
-export const SCHEDULE_MEETING_MODAL_ROUTE = '/schedule-meeting';
+export const SCHEDULE_MEETING_MODAL_ROUTE = '/matrix-meetings/schedule-meeting';

@@ -31,7 +31,7 @@ function App() {
   return (
     <Box height="100vh">
       <Routes>
-        <Route element={<MeetingsPanel />} index path="/" />
+        <Route element={<MeetingsPanel />} index path="/matrix-meetings" />
         <Route
           element={<ScheduleMeetingModal />}
           path={SCHEDULE_MEETING_MODAL_ROUTE}
@@ -40,7 +40,7 @@ function App() {
           element={<SetupBreakoutSessionsModal />}
           path={SETUP_BREAKOUT_SESSIONS_MODAL_ROUTE}
         />
-        <Route element={<CockpitPanel />} path="/cockpit" />
+        <Route element={<CockpitPanel />} path="/matrix-meetings/cockpit" />
       </Routes>
     </Box>
   );

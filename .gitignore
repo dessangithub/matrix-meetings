@@ -136,3 +136,7 @@ yarn-error.log*
 
 # AWS ECS
 task-definition.json
+
+
+matrix-meetings-bot/.env.local.default
+matrix-meetings-widget/.env.local.default

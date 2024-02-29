@@ -115,5 +115,6 @@
   },
   "bugs": {
     "url": "https://github.com/nordeck/matrix-meetings/issues"
-  }
+  },
+  "homepage": "/matrix-meetings"
 }
